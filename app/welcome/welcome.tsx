@@ -68,8 +68,7 @@ const resources = [
     ),
   },
   {
-    href: "https://rmx.as/discord",
-    text: "Join Discord",
+    text: "Email: hello@fencefort.co.uk",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
